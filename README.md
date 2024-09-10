@@ -22,4 +22,4 @@ This project is a simple web page built using HTML and CSS to showcase various T
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/toyota-car-showcase.git
+   git clone https://github.com/Aseel-Qhaiwi/Project-Toyota.git
